@@ -1,0 +1,7 @@
+pass
+password
+admin
+12345678
+nsfadmin
+nmsfadmin
+npassword
