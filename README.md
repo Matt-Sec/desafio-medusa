@@ -18,3 +18,4 @@ PAGE:	caminho da página de login
 FORM:	campos enviados na requisição
 FAIL=	texto que indica falha de login
 -t	número de threads
+uma maneira de mitigar esse ataque é colocando limite de tentativas e erros, depois de X tentativas erradas, o sistema bloqueia ou atrasa o login
